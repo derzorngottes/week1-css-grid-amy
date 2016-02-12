@@ -70,14 +70,17 @@ article {
 #main-art {
   padding: 10% 2% 10% 2%;
   margin: 2% 0% 2% 0%;
+  border: 3px solid #445D8D;
 }
 
 footer {
   padding: 1% 1% 1% 1%;
   margin: 1% 1% 1% 1%;
   background-color: #F79646;
+  border: 2px solid #CD7723;
 }
 
 nav{
   background-color: #4BACC6;
+  border: 3px solid #3B8897;
 }
