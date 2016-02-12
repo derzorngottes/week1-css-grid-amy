@@ -1,0 +1,83 @@
+/*Your code here*/
+h1 {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+#container {
+  position: static;
+  background-color: #4F81BD;
+  margin: 0%;
+  padding: 1%;
+}
+
+header {
+  position: static;
+  background-color: #C0504D;
+  margin: 1%;
+  padding: 5% 0% 5% 0%;
+  box-shadow: 1px 1px 1px 1px darkred;
+}
+
+#sidebar {
+  background-color: #4F81BD;
+  position: relative;
+  float:left;
+  left: 2%;
+  width: 20%;
+  margin-top: 1%;
+}
+
+aside {
+  background-color: white;
+  padding: 15% 0% 15% 0%;
+  margin: 2%;
+}
+
+article {
+  background-color: #FFFF03;
+  border: 2px solid #4F81BD;
+}
+
+#other-links {
+  background-color: lightgrey;
+  padding: 12% 0% 12% 0%;
+  margin: 2%
+}
+
+.side-art {
+  padding: 5% 1% 5% 1%;
+  margin: 2% 1% 2% 1%;
+}
+
+#body {
+  position: static;
+  margin: 1% 1% 1% 1%;
+  padding-bottom: 3%;
+  background-color: #9BBB55;
+}
+
+#main {
+  background-color: #8064A2;
+  position: relative;
+  left: 25%;
+  bottom: 2%;
+  width: 72%;
+  padding: 2% 1% 2% 1%;
+  margin: 0;
+}
+
+#main-art {
+  padding: 10% 2% 10% 2%;
+  margin: 2% 0% 2% 0%;
+}
+
+footer {
+  padding: 1% 1% 1% 1%;
+  margin: 1% 1% 1% 1%;
+  background-color: #F79646;
+}
+
+nav{
+  background-color: #4BACC6;
+}
